@@ -1,0 +1,1 @@
+"""Clicars.com scraper module."""
